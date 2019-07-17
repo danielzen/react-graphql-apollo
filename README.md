@@ -1,3 +1,18 @@
+Updated 2019 tutorial coming shortly.
+
+# React & Apollo Quickstart
+
+* [React](https://facebook.github.io/react/): Frontend framework for building user interfaces
+* [Apollo Client](https://github.com/apollographql/apollo-client): Fully-featured, production ready caching GraphQL client
+* [Graphcool](https://www.graph.cool): Backend development framework based on GraphQL + Serverless
+
+# Tutorial
+
+Although this code works on its own, you can always look at the original. However, this code is an updated version of on old step by step
+ tutorial, which will be posted shortly.
+ 
+With many thanks to [Nikolas Burk](https://github.com/graphcool-examples/react-graphql/tree/master/quickstart-with-apollo).        
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,6 @@
+type Post @model {
+  id: ID! @isUnique
+  createdAt: DateTime!
+  description: String!
+  imageUrl: String!
+}
